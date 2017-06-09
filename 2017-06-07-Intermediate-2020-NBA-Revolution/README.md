@@ -107,7 +107,3 @@ Add the scheduled date besides each round number in your output (using format MM
 - There cannot be less than 2 full days between each round (it means that if one round occurs on October 1st, the next round cannot occur before October 4th).
 
 - The number of rounds taking place over the weekends (on Saturdays or Sundays) must be maximized, to increase audience incomes.
-
-# Credit
-
-This challenge was suggested by user /u/gabyjunior, many thanks. If you have a challenge idea, please share it in /r/dailyprogrammer_ideas and there's a good chance we'll use it. 
